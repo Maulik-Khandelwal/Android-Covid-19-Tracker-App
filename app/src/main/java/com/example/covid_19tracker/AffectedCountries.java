@@ -47,7 +47,7 @@ public class AffectedCountries extends AppCompatActivity {
 
         setContentView(R.layout.activity_affected_countries);
 
-        edtSearch = findViewById(R.id.edtsearch);
+        edtSearch = findViewById(R.id.edtSearch);
         listView = findViewById(R.id.listView);
         simpleArcLoader = findViewById(R.id.loader);
 

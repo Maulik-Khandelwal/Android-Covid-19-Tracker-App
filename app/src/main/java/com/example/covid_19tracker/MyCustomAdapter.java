@@ -104,3 +104,4 @@ public class MyCustomAdapter extends ArrayAdapter<CountryModel> {
         return filter;
     }
 }
+
