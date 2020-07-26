@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#31FFC107"
+    android:background="#00FFC107"
     tools:context=".MainActivity">
 
     <androidx.cardview.widget.CardView
@@ -43,7 +43,7 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="15dp"
+                    android:layout_height="17dp"
                     android:gravity="center_vertical">
                     <View
                         android:layout_width="15dp"
@@ -58,7 +58,7 @@
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="15dp"
+                    android:layout_height="17dp"
                     android:gravity="center_vertical"
                     android:layout_marginTop="5dp">
                     <View
@@ -74,7 +74,7 @@
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="15dp"
+                    android:layout_height="17dp"
                     android:gravity="center_vertical"
                     android:layout_marginTop="5dp">
                     <View
@@ -90,7 +90,7 @@
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="15dp"
+                    android:layout_height="17dp"
                     android:gravity="center_vertical"
                     android:layout_marginTop="5dp">
                     <View
